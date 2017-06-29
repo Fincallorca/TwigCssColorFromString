@@ -1,0 +1,5 @@
+services:
+  twig.css_color_from_string:
+    class: Fincallorca\TwigExtension\CssColorFromStringBundle\Twig\TwigCssColorFromString
+    tags:
+      - { name: twig.extension }
