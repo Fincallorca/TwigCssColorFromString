@@ -1,5 +1,5 @@
 {
-  "name": "fincallorca/twig/css-color-from-string",
+  "name": "fincallorca/twig-css-color-from-string",
   "type": "library",
   "description": "A small twig extension to convert string into css color values",
   "keywords": [
